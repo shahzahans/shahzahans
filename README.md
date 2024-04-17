@@ -9,7 +9,8 @@ My name is Shadman Shahzahan, pursuing my Computer Science major and minoring in
 
 ### Skills
 * Languages: Proficient in C++, Python, and R.
-* Technology: Experienced with Git/GitHub, SQLite Studio, Docker, QT6, Balsamiq, CLion and various IDEs.
+* Technologies/Databases: Experienced with SQLite Studio, QT6, WordPress, Balsamiq, CLion and various IDEs.
+* Developer Tools: Git/GitHub, Docker.
 
 ### Goals
 * Career: My goal is work in software development, specifically developing creative and scalable solutions.
