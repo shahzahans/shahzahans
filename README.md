@@ -18,7 +18,9 @@ My name is Shadman Shahzahan, pursuing my Computer Science major and minoring in
 
 ### Contacts
 GitHub: https://github.com/shahzahans
+
 LinkedIn: https://www.linkedin.com/in/shadman-shahzahan-340b7a1a9/
+
 Email: shahzahanshadman@gmail.com
 
 Together, Let's connect and make differnce in the world of Tech!
