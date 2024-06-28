@@ -31,3 +31,17 @@ LinkedIn: https://www.linkedin.com/in/shadman-shahzahan-340b7a1a9/
 🕽 Phone: +1-360-356-8164
 
 Together, Let's connect and make a difference in the world of Tech!
+
+### Project Showcase
+
+#### Running in Terminal
+
+- TicTacToe in Terminal
+![image](https://github.com/shahzahans/shahzahans/assets/145942385/34d7e537-8e0b-4ccf-a5f5-fbb944e8e4f1)
+
+- QR Code Generator
+![image](https://github.com/shahzahans/shahzahans/assets/145942385/ae513fc8-2ffb-438a-ac39-8bece442407d)
+
+
+
+
