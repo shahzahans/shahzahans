@@ -1,4 +1,4 @@
-# Hi Everyone 👋
+# Hi Everyone 
 ## About me 
 My name is Shadman Shahzahan, pursuing my Computer Science major and minoring in Data Analytics at Seattle Pacific University. I am very passionate about technology and am always seeking to learn and grow in the field of computer science. My goal is to use my skills and knowledge to have an impact around the world.
 
@@ -31,6 +31,9 @@ LinkedIn: https://www.linkedin.com/in/shadman-shahzahan-340b7a1a9/
 🕽 Phone: +1-360-356-8164
 
 Together, Let's connect and make a difference in the world of Tech!
+
+![image](https://github.com/shahzahans/shahzahans/assets/145942385/d61539cd-1996-4925-b960-3d3c0ce5a63f)
+Seattle, WA
 
 ## Project Showcase
 
