@@ -26,4 +26,8 @@ LinkedIn: https://www.linkedin.com/in/shadman-shahzahan-340b7a1a9/
 
 📧 Email: shahzahanshadman@gmail.com
 
+📧 School Email: shahzahans@spu.edu
+
+🕽 Phone: +1-360-356-8164
+
 Together, Let's connect and make a difference in the world of Tech!
