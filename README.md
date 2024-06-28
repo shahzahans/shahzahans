@@ -37,6 +37,7 @@ Together, Let's connect and make a difference in the world of Tech!
 #### Running in Terminal
 
 - TicTacToe in Terminal
+
 ![image](https://github.com/shahzahans/shahzahans/assets/145942385/34d7e537-8e0b-4ccf-a5f5-fbb944e8e4f1)
 
 - QR Code Generator
