@@ -35,7 +35,7 @@ Together, Let's connect and make a difference in the world of Tech!
 ![image](https://github.com/shahzahans/shahzahans/assets/145942385/d61539cd-1996-4925-b960-3d3c0ce5a63f)
 Seattle, WA
 
-## Project Showcase 
+## Project Showcase
 
 ### Running in Terminal
 
