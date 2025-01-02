@@ -24,7 +24,7 @@ GitHub: https://github.com/shahzahans
 ![image](https://github.com/shahzahans/shahzahans/assets/145942385/d0cda9c8-860a-4bf6-9094-aa322deb1a42)
 LinkedIn: https://www.linkedin.com/in/shadman-shahzahan-340b7a1a9/
 
-![54560](https://github.com/user-attachments/assets/63eed884-51bb-4ffd-8d8a-fd136c8d8d02)
+![image](https://github.com/user-attachments/assets/63eed884-51bb-4ffd-8d8a-fd136c8d8d02)
 Portfolio: https://shahzahansportfolio.netlify.app/
 
 📧 Email: shahzahanshadman@gmail.com
