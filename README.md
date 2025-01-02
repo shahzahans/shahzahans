@@ -24,6 +24,8 @@ GitHub: https://github.com/shahzahans
 ![image](https://github.com/shahzahans/shahzahans/assets/145942385/d0cda9c8-860a-4bf6-9094-aa322deb1a42)
 LinkedIn: https://www.linkedin.com/in/shadman-shahzahan-340b7a1a9/
 
+Portfolio: https://shahzahansportfolio.netlify.app/
+
 📧 Email: shahzahanshadman@gmail.com
 
 📧 School Email: shahzahans@spu.edu
@@ -34,19 +36,6 @@ Together, Let's connect and make a difference in the world of Tech!
 
 ![image](https://github.com/shahzahans/shahzahans/assets/145942385/d61539cd-1996-4925-b960-3d3c0ce5a63f)
 Seattle, WA
-
-## Project Showcase
-
-### Running in Terminal
-
-#### TicTacToe in Terminal
-
-![image](https://github.com/shahzahans/shahzahans/assets/145942385/34d7e537-8e0b-4ccf-a5f5-fbb944e8e4f1)
-
-#### QR Code Generator
-
-![image](https://github.com/shahzahans/shahzahans/assets/145942385/ae513fc8-2ffb-438a-ac39-8bece442407d)
-
 
 
 
