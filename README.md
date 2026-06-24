@@ -20,7 +20,7 @@ My name is Shadman Shahzahan, pursuing my Computer Science major and minoring in
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahzahans/) [![School email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahzahans@spu.edu) 
 
-- Portfolio: https://shahzahansportfolio.netlify.app/
+- Portfolio: https://shahzahans.com/
 - 🕽 Phone: +1-360-356-8164
 
 # Tech Stack:
