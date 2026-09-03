@@ -25,7 +25,7 @@ shadman@dev ~ % whoami
 - 🚀 Building **[Echofy](https://www.echofytech.com/)** - an AI pipeline (Slack + GitHub + Gemini API) that turns repeated team questions into a trust-gated knowledge base. Live product, first paying customer onboarded, Stripe billing in production.
 - 🛠️ Merged a fix into **[comma.ai/openpilot](https://github.com/commaai/openpilot)** - restored an end-to-end CI simulation test and diagnosed a Linux segfault causing intermittent failures, improving CI reliability to ~90% on 4-core runners.
 - 📱 Shipping **TripSplit**, a cloud-connected shared-expense app with concurrent transaction handling.
-- 💼 Former Software Engineering Intern @ **Attention.ad** — built REST APIs and CI/CD pipelines for a creator platform.
+- 💼 Former Software Engineering Intern @ **Attention.ad** - built REST APIs and CI/CD pipelines for a creator platform.
 
 ## 🧩 Featured Projects
 
