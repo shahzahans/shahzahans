@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Shadman%20Shahzahan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%26%20Entrepreneur&descAlignY=55&descSize=20" width="100%"/>
+![Header banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Shadman%20Shahzahan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%26%20Entrepreneur&descAlignY=55&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Founder+%40+Echofy;Merged+contributor+%40+comma.ai%2Fopenpilot;Building+AI-powered+products;Currently+shipping+TripSplit)](https://git.io/typing-svg)
 
@@ -80,6 +80,6 @@ shadman@dev ~ % whoami
 
 💬 Let's connect and build something worth shipping.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
+![Footer banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer)
 
 </div>
