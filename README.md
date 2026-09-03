@@ -1,31 +1,74 @@
-# Hi
-## About me 
-My name is Shadman Shahzahan, pursuing my Computer Science major and minoring in Data Analytics at Seattle Pacific University. I am very passionate about technology and am always seeking to learn and grow in the field of computer science. My goal is to use my skills and knowledge to have an impact around the world.
+<div align="center">
 
-### Current Status
-* Academic Projects: I'm currently working on a variety of projects for my computer science classes, which include software development, database management, regression modeling, and web development.
-* Personal Projects: In my free time, I enjoy working on personal projects that allow me to explore, and learn more about technology.
-* Hackathons: I actively participate in hackathons to challenge myself, work with others, and come up with creative ideas.
+# Hi, I'm Shadman Shahzahan 👋
 
-### Technical Skills
-* Languages: Proficient in C++, Python, Java and R.
-* Technologies/Databases: Experienced with SQLite Studio, QT6, WordPress, Balsamiq, ReactJS, CLion, and various IDEs.
-* Developer Tools: Git/GitHub, Docker.
+### Software Engineer & Entrepreneur — building AI-powered products and shipping fixes upstream
 
-### Goals
-* Career: My goal is to work in software development, specifically developing creative and scalable solutions.
-* Learning: I'm dedicated to continuously learning and keeping up with the newest developments in computer science and technology.
-* Contribution: I want to work with other developers to produce significant solutions and contribute to open-source projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzahans)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahzahans.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzahans@outlook.com)
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahzahans/) [![School email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahzahans@spu.edu) 
+</div>
 
-- Portfolio: https://shahzahans.com/
-- 🕽 Phone: +1-360-356-8164
+---
 
-# Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+```text
+shadman@dev ~ % whoami
+> Founder @ Echofy — AI knowledge automation for engineering teams
+> Merged contributor @ comma.ai/openpilot
+> B.A. Computer Science, Minor in Data Analytics — Seattle Pacific University ('26)
+> Based in Vancouver, WA
+```
 
-Together, let's connect and make a difference in the world of Tech!
+## ⚡ Currently
 
-Seattle, WA
+- 🚀 Building **[Echofy](https://shahzahans.com)** — an AI pipeline (Slack + GitHub + Gemini API) that turns repeated team questions into a trust-gated knowledge base. Live product, first paying customer onboarded, Stripe billing in production.
+- 🛠️ Merged a fix into **[comma.ai/openpilot](https://github.com/commaai/openpilot)** — restored an end-to-end CI simulation test and diagnosed a Linux segfault causing intermittent failures, improving CI reliability to ~90% on 4-core runners.
+- 📱 Shipping **TripSplit**, a cloud-connected shared-expense app with concurrent transaction handling.
+- 💼 Former Software Engineering Intern @ **Attention.ad** — built REST APIs and CI/CD pipelines for a creator platform.
+
+## 🧩 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Echofy](https://shahzahans.com)** | AI automation pipeline that detects repeated team questions in Slack/GitHub and drafts sourced knowledge-base entries, gated behind human approval | Next.js · Node/Express · TypeScript · Gemini API · Supabase · Cloud Run · Stripe |
+| **openpilot (comma.ai)** | Merged open-source PR restoring a CI simulation test; root-caused a Linux segfault behind intermittent CI failures | Python · GitHub Actions · MetaDrive · Linux |
+| **TripSplit** | Cloud-backed shared-expense platform with concurrent transaction processing and JWT-secured balances | Node.js · Express · PostgreSQL · Prisma · Firebase Auth · AWS RDS · Expo |
+| **AoMatch** | Document-processing platform that cut manual compliance review time ~60%, with field-level source traceability | React · FastAPI · Python · MongoDB |
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Cloud, DevOps & AI**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Shadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzahans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzahans&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shahzahans&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+💬 Let's connect and build something worth shipping.
+
+</div>
