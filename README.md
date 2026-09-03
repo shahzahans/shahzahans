@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Shadman Shahzahan 👋
+# Hi, I'm Shadman Shahzahan
 
-### Software Engineer & Entrepreneur — building AI-powered products and shipping fixes upstream
+### Software Engineer & Entrepreneur: building AI-powered products and shipping fixes upstream
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzahans)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahzahans.com)
@@ -22,7 +22,7 @@ shadman@dev ~ % whoami
 
 ## ⚡ Currently
 
-- 🚀 Building **[Echofy](https://shahzahans.com)** — an AI pipeline (Slack + GitHub + Gemini API) that turns repeated team questions into a trust-gated knowledge base. Live product, first paying customer onboarded, Stripe billing in production.
+- 🚀 Building **[Echofy](https://shahzahans.com](https://www.echofytech.com/)** — an AI pipeline (Slack + GitHub + Gemini API) that turns repeated team questions into a trust-gated knowledge base. Live product, first paying customer onboarded, Stripe billing in production.
 - 🛠️ Merged a fix into **[comma.ai/openpilot](https://github.com/commaai/openpilot)** — restored an end-to-end CI simulation test and diagnosed a Linux segfault causing intermittent failures, improving CI reliability to ~90% on 4-core runners.
 - 📱 Shipping **TripSplit**, a cloud-connected shared-expense app with concurrent transaction handling.
 - 💼 Former Software Engineering Intern @ **Attention.ad** — built REST APIs and CI/CD pipelines for a creator platform.
@@ -31,7 +31,7 @@ shadman@dev ~ % whoami
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Echofy](https://shahzahans.com)** | AI automation pipeline that detects repeated team questions in Slack/GitHub and drafts sourced knowledge-base entries, gated behind human approval | Next.js · Node/Express · TypeScript · Gemini API · Supabase · Cloud Run · Stripe |
+| **[Echofy](https://shahzahans.com](https://www.echofytech.com/)** | AI automation pipeline that detects repeated team questions in Slack/GitHub and drafts sourced knowledge-base entries, gated behind human approval | Next.js · Node/Express · TypeScript · Gemini API · Supabase · Cloud Run · Stripe |
 | **openpilot (comma.ai)** | Merged open-source PR restoring a CI simulation test; root-caused a Linux segfault behind intermittent CI failures | Python · GitHub Actions · MetaDrive · Linux |
 | **TripSplit** | Cloud-backed shared-expense platform with concurrent transaction processing and JWT-secured balances | Node.js · Express · PostgreSQL · Prisma · Firebase Auth · AWS RDS · Expo |
 | **AoMatch** | Document-processing platform that cut manual compliance review time ~60%, with field-level source traceability | React · FastAPI · Python · MongoDB |
